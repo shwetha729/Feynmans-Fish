@@ -1,6 +1,7 @@
 #GoFish python 
 
 import random 
+import math
 from time import sleep
 from itertools import combinations
 from itertools import product
